@@ -1,4 +1,4 @@
-# 🧠 w3bk1n9’s Final Boss: VM Reverse Engineering
+# 🧠 w3bk1n9's Final Boss: Reverse Engineering
 
 **Difficulty:** Hard / Insane  
 **Category:** Reverse Engineering  
@@ -49,8 +49,7 @@ Using Ghidra reveals:
 ## 🧪 Dynamic Analysis
 
 ```bash
-gcc challenge.c -o challenge_dbg -O0 -g -fno-stack-protector -no-pie
-gdb ./challenge_dbg
+gdb ./challenge
 ```
 
 ---
@@ -66,7 +65,7 @@ gdb ./challenge_dbg
 ## 🏁 Flag
 
 ```
-thm{y0u_ar3_re4lly_pr0_a7_r3}
+thm{REACTED}
 ```
 
 ---
