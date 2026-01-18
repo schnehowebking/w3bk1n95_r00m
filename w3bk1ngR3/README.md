@@ -65,7 +65,7 @@ gdb ./challenge
 ## 🏁 Flag
 
 ```
-thm{REACTED}
+thm{REDACTED}
 ```
 
 ---
